@@ -1,0 +1,8 @@
+{
+    "name": "reload/config_ignore_language",
+    "type": "drupal-module",
+    "description": "Ignore language configuration collections",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/reload/config_ignore_language"
+}
