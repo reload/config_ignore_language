@@ -1,0 +1,5 @@
+name: Config Ignore Language
+type: module
+description: Ignore language configuration collections
+package: Config
+core: '8.x'
